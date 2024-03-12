@@ -11,7 +11,7 @@ This Snake Game is a classic arcade-style game where the player controls a snake
 ## Features
 
 - Classic arcade-style gameplay.
-- Control the snake using keyboard arrow keys (up, down, left, right).
+- Control the snake using keyboard arrow keys (W, S, A, D).
 - The snake grows longer and moves faster as it consumes food.
 - Randomly appearing hazards (fppf) add an extra challenge to the game.
 - Beautifully designed using the Turtle library in Python.
@@ -33,7 +33,7 @@ This Snake Game is a classic arcade-style game where the player controls a snake
 
 ## How to Play
 
-- Use the arrow keys (up, down, left, right) to control the direction of the snake.
+- Use the arrow keys (W, S, A, D) to control the direction of the snake.
 - Eat the green food pellets to grow longer and increase your score.
 - Avoid running into the walls or colliding with your own tail.
 - Beware of the red hazards (fppf) that appear randomly, as they will end the game upon collision.
@@ -45,4 +45,3 @@ This Snake Game is a classic arcade-style game where the player controls a snake
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
